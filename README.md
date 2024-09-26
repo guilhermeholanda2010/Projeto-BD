@@ -1,5 +1,18 @@
-# Projeto-BD
+Projeto-BD
 Primeiro projeto de Banco de dados I -Unicap
+
+MODELO ENTIDADE RELACIONAMENTO: 
+https://app.brmodeloweb.com/#!/publicview/66f44f77200d3a7176c01e45
+
+![image](https://github.com/user-attachments/assets/3849f5ce-c2d8-4d38-bfaa-433ccbaa92dd)
+
+
+MODELO RELACIONAL: 
+
+https://dbdiagram.io/d/MR-projeto-BD-I-66f4c56c3430cb846ca64a79
+
+![image](https://github.com/user-attachments/assets/f0c9e259-ed99-4e60-90d5-08c606b503b7)
+
 
 PERGUNTAS QUE AGREGAM VALOR AO NEGOCIO:
 
@@ -12,7 +25,6 @@ PERGUNTAS QUE AGREGAM VALOR AO NEGOCIO:
 4.⁠ ⁠Quais são os clientes mais frequentes?
 
 5.⁠ ⁠Qual é a especialidade médica mais procurada?
-
 
 
 MODELO DDL: 
@@ -179,6 +191,8 @@ CREATE TABLE Medico (
     especializacao VARCHAR(255),
     crm_medico VARCHAR(20)
 );
+
+
 
 -- Tabela Recepcao
 CREATE TABLE Recepcao (
