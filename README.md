@@ -15,10 +15,12 @@ https://dbdiagram.io/d/MR-projeto-BD-I-66f4c56c3430cb846ca64a79
 
 O QUE FOI FEITO POR CADA ALUNO: 
 -Caso 1: (Guilherme Holanda):
+
 -Caso 2: (João Victor Neves De Souza): Foi atendido todos os requisitos mínimos e teve como entidade extra o (PALESTRANTE). 
 Minha motivação foi: Como vamos relacionar um evento com uma clínica médica ? 
 A partir deste questionamento, pesquisei um pouco e percebi que médicos de renome dão e participam de palestras. 
 E a partir disso criei um relacionamento < dono_de > onde o palestrante é dono da clinica. 
+
 -Caso 3: (Guilherme Gomes):
 
 
