@@ -1,6 +1,19 @@
 # Projeto-BD
 Primeiro projeto de Banco de dados I -Unicap
 
+PERGUNTAS QUE AGREGAM VALOR AO NEGOCIO:
+
+1.⁠ ⁠Qual o local mais popular para eventos?
+
+2.⁠ ⁠Quais eventos possuem maior taxa de confirmação?
+
+3.⁠ ⁠Quais são os restaurantes mais bem avaliados?
+
+4.⁠ ⁠Quais são os clientes mais frequentes?
+
+5.⁠ ⁠Qual é a especialidade médica mais procurada?
+
+
 
 MODELO DDL: 
 
