@@ -21,7 +21,11 @@ Minha motivação foi: Como vamos relacionar um evento com uma clínica médica 
 A partir deste questionamento, pesquisei um pouco e percebi que médicos de renome dão e participam de palestras. 
 E a partir disso criei um relacionamento < dono_de > onde o palestrante é dono da clinica. 
 
--Caso 3: (Guilherme Gomes):
+
+-Caso 3: (Guilherme Gomes): O sistema do restaurante foi implementado com sucesso. O evento possui vários restaurantes acessíveis ao público, 
+com todos os requisitos mínimos atendidos: garçons, mesas, pedidos, cozinheiros, gerente, itens pedido e suas relações. O restaurante no evento
+os participantes comem no evento mesmo, e depois assistem as palestras, e nos intervalos de uma palestra e outra. Por isso, nesse sistema, não tem 
+opção de levar comida pra casa, pois a ideia do evento é as pessoas comerem no evento, e não fora dele.
 
 
 
