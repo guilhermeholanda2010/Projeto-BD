@@ -14,7 +14,10 @@ https://dbdiagram.io/d/MR-projeto-BD-I-66f4c56c3430cb846ca64a79
 ![image](https://github.com/user-attachments/assets/f0c9e259-ed99-4e60-90d5-08c606b503b7)
 
 O QUE FOI FEITO POR CADA ALUNO: 
--Caso 1: (Guilherme Holanda):
+
+-Caso 1: (Guilherme Holanda):Foi atendido todos os requisitos para a modelagem da clínica medica envvolvida no contexto geral
+contemplando diversas entidades chaves solicitadas -> Medico, Paciente, recepcao e clinica, dando oportunidade para criar-se
+relacionamentos com as outras entidades principais e realizar devidos relacionamentos.
 
 -Caso 2: (João Victor Neves De Souza): Foi atendido todos os requisitos mínimos e teve como entidade extra o (PALESTRANTE). 
 Minha motivação foi: Como vamos relacionar um evento com uma clínica médica ? 
